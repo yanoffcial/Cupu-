@@ -14,7 +14,7 @@
     "ALOMANI丨CUPU",
     "BAHLIL丨CUPU",
     "Astartex 丨CUPU",
-    "Chansss丨CUPU",
+    "Chansss丨CUPU"
   ],
   "admins": [
     {
@@ -75,12 +75,9 @@
       "file": "cupu-music6.mp3"
     }
   ],
-  "photos": [
-    "galeri1.jpeg"
-  ],
+  "photos": [],
   "videos": [],
   "allowed_ids": [
-    8383286674,
-    7932583278
+    8383286674
   ]
 }
