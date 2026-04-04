@@ -84,7 +84,9 @@
       "file": "cupu-music6.mp3"
     }
   ],
-  "photos": [],
+  "photos": [
+    "galeri1.jpeg"
+  ],
   "videos": [],
   "allowed_ids": [
     7932583278,
