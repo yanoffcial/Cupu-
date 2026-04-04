@@ -10,83 +10,39 @@
     "DR | LyineCUPU",
     "Hansa16丨CUPU",
     "FitzzX丨CUPU",
-    "CHANSSS丨CUPU",
-    "ALOMANI丨CUPU",
-    "BAHLIL丨CUPU",
-    "Astartex 丨CUPU",
-    "Chansss丨CUPU",
+    "CHANSSS | CUPU",
+    "ALOMANI | CUPU",
+    "BAHLIL | CUPU",
+    "Astartex | CUPU",
+    "L4p4R | CUPU",
     "Skyriii | CUPU",
-    "N4S1| CUPU",
+    "N4S1丨CUPU",
+    "BAKAR丨CUPU",
     "ZHIEPEDJCUH | CUPU",
-    "BAKAR | CUPU",
-    "ElEvKeii | CUPU"
+    "ElEvKeii | CUPU",
+    "JINX | YUJICUPU"
   ],
   "admins": [
-    {
-      "name": "WAHYU",
-      "role": "Ketua"
-    },
-    {
-      "name": "RISKI",
-      "role": "Admin"
-    },
-    {
-      "name": "DANA",
-      "role": "Admin"
-    },
-    {
-      "name": "NEMO",
-      "role": "Admin"
-    },
-    {
-      "name": "Fajri",
-      "role": "Admin"
-    },
-    {
-      "name": "YAN",
-      "role": "Admin"
-    },
-    {
-      "name": "Pito",
-      "role": "Admin"
-    },
-    null,
+    {"name": "WAHYU", "role": "Ketua"},
+    {"name": "RISKI", "role": "Admin"},
+    {"name": "DANA",  "role": "Admin"},
+    {"name": "NEMO",  "role": "Admin"},
+    {"name": "Fajri", "role": "Admin"},
+    {"name": "YAN",   "role": "Admin"},
+    {"name": "Pito",  "role": "Admin"},
+    {"name": "Neeyaa",  "role": "Admin"},
     null,
     null
   ],
   "tracks": [
-    {
-      "title": "Satu Squad Hilang",
-      "file": "cupu-music.mp3"
-    },
-    {
-      "title": "Track 2",
-      "file": "cupu-music2.mp3"
-    },
-    {
-      "title": "Track 3",
-      "file": "cupu-music3.mp3"
-    },
-    {
-      "title": "Track 4",
-      "file": "cupu-music4.mp3"
-    },
-    {
-      "title": "Track 5",
-      "file": "cupu-music5.mp3"
-    },
-    {
-      "title": "Track 6",
-      "file": "cupu-music6.mp3"
-    }
+    {"title": "Satu Squad Hilang", "file": "cupu-music.mp3"},
+    {"title": "Track 2",           "file": "cupu-music2.mp3"},
+    {"title": "Track 3",           "file": "cupu-music3.mp3"},
+    {"title": "Track 4",           "file": "cupu-music4.mp3"},
+    {"title": "Track 5",           "file": "cupu-music5.mp3"},
+    {"title": "Track 6",           "file": "cupu-music6.mp3"}
   ],
-  "photos": [
-    "galeri2.jpeg",
-    "galeri2.jpeg"
-  ],
+  "photos": [],
   "videos": [],
-  "allowed_ids": [
-    8383286674,
-    7932583278
-  ]
+  "allowed_ids": []
 }
