@@ -56,7 +56,10 @@
       "name": "Neeyaa",
       "role": "Admin"
     },
-    null,
+    {
+      "name": "Nala",
+      "role": "Admin"
+    },
     null
   ],
   "tracks": [
