@@ -118,7 +118,10 @@
       "name": "Nala",
       "role": "Admin"
     },
-    null
+    {
+      "name": "Dika",
+      "role": "Admin"
+    }
   ],
   "tracks": [
     {
